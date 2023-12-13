@@ -26,14 +26,14 @@ Welcome to the Little Lemon Food App, the Android App Capstone Project developed
 
 ## Features
 
-- Utilizes Jetpack Compose for a modern and declarative UI development approach.
-- Follows the MVVM architecture pattern, ensuring a clear separation of data, view, and business logic.
-- Seamless navigation between screens facilitated by the Navigation component.
-- Uses SharedPreferences for secure user data storage.
-- Integrates Ktor for efficient network data fetching.
-- Implements Room for robust local storage of menu data.
-- Leverages Kotlin's serialization library for efficient JSON file decoding.
-- Integrates with external libraries such as Coil for optimized image loading and caching.
+- Utilizes **Jetpack Compose** for a modern and declarative UI development approach.
+- Follows the **MVVM architecture pattern**, ensuring a clear separation of data, view, and business logic.
+- Seamless navigation between screens facilitated by the **Navigation component**.
+- Uses **SharedPreferences** for secure user data storage.
+- Integrates **Ktor** for efficient network data fetching.
+- Implements **Room** for robust local storage of menu data.
+- Leverages **Kotlin's serialization library** for efficient JSON file decoding.
+- Integrates with external libraries such as **Coil** for optimized image loading and caching.
 
 ## Contributing
 
