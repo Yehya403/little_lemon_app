@@ -12,11 +12,6 @@ Welcome to the Little Lemon Food App, the Android App Capstone Project developed
 
 - **Android Studio**
 - **Kotlin** - Jetpack Compose
-- **Navigation component** - Streamlined navigation between screens
-- **Ktor** - Integrated network data fetching
-- **Room** - Local storage for menu data
-- **Kotlin Serialization** - Seamless JSON file decoding
-- **Coil** - Efficient image loading and caching
 
 ## Installation
 
